@@ -6,7 +6,7 @@
 
 ## Authors
 
-- [Abdullah Moiz](https://www.github.com/Abdullah-moiz)
+- [Anurag Sharma] (https://github.com/Anurag221995/Shopping-cart)
 
 ### Tech Used
 
